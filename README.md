@@ -36,7 +36,6 @@ I was also awarded a certifiaction of apperication for upgrading and improving t
 - Modern and custom UI
 - Easy GUI installation
 - Live preview mode ability
-- Comes in 2 variant of Home and Lab editions
 - Comes with set of useful preinstalled packages
 - Contains Doom I & II
 - Contains awesome Eastereggs :)
