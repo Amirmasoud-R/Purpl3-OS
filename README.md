@@ -2,7 +2,11 @@
 
 ## History
 
-Purpl3 OS Linux development started in late 2023 after spending some time at the Islamic Azad University Karaj Branch computer laboratory, I have noticed that the students and my mentor Dr. Harifi were having serious problems with the computers due to the extremally outdate hardware even Ubuntu 16.04 was not working properly. I suggested the idea of developing a distro from scratch as my final project to Dr. Harifi, They agreed but insisted on having the core of Ubuntu so I decided to modify the core of Ubuntu 20.04 LTS and make it as optimized as possible even for the lowest spec systems with modern interface at the same time. The development of Purpl3 OS finished in the early 2024 and immediately I upgraded all of the computers in the lab with Purpl3 OS, thus finally solving the lab problems once and for all.
+Purpl3 OS Linux development started in Q2 2023 after spending some time at the Islamic Azad University Karaj Branch computer laboratory, I have noticed that the students and my mentor Dr. Harifi were having serious problems with the computers due to the extremally outdate hardware even Ubuntu 16.04 was not working properly. I suggested the idea of developing a distro from scratch as my final project to Dr. Harifi, They agreed but insisted on having the core of Ubuntu so I decided to modify the core of Ubuntu 20.04 LTS and make it as optimized as possible even for the lowest spec systems with modern interface at the same time. The development of Purpl3 OS finished in the Q3 2023 and immediately I upgraded all of the computers in the lab with Purpl3 OS, thus finally solving the lab problems once and for all.
+
+Purpl3 OS was chosen as the best project for the Fall semester of 2023 at Islamic Azad University Karaj Branch.
+
+I was also awarded a certifiaction of apperication for upgrading and improving the lab computers at October of 2023.
 
 
 ## Editions
